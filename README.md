@@ -1,1 +1,1 @@
-# contracts
+# FluxBSC.finance smart contracts
